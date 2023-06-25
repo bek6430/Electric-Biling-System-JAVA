@@ -1,0 +1,23 @@
+.pay {
+    border: 3px solid #6dabe4;
+    width: 70px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.pay-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.profile-card {
+    margin-bottom: 80px;
+}
+
+.profile-wrapper {
+    flex-direction: column;
+}
